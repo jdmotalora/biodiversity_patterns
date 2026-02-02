@@ -94,4 +94,7 @@ const config: QuartzConfig = {
   },
 }
 
-export default config
+export default {
+  siteUrl: "https://jdmotalora.github.io",
+  baseUrl: "/biodiversity_patterns",
+}
