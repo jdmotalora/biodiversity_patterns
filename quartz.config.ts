@@ -95,6 +95,10 @@ const config: QuartzConfig = {
 }
 
 export default {
-  siteUrl: "https://jdmotalora.github.io",
-  baseUrl: "/biodiversity_patterns",
+  configuration: {
+    pageTitle: "Biodiversity Patterns",
+    baseUrl: "/biodiversity_patterns",
+    enableSPA: true,
+    analytics: null,
+  },
 }
