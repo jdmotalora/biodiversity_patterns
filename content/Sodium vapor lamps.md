@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Sodium vapor lamps
 ---
-<p align="center">✩✩✩ </p>
+
+
+**✩✩✩ **
+
+
 
 conectivity::3
 Number:: 31
@@ -14,7 +18,7 @@ Problem:: Excessive lighting, along with the color and wavelength of light, pose
 
 Therefore:: Replace white lights with lower impact lights such as sodium vapor where possible. Promote the use of sodium vapor lamps instead of halogen or LEDs since they have less impact on wildlife.
 
-Graphic::![[32.png]]
+Graphic::![imagen](../32.png)
 linkdown::
 
 Urban ecology principles:

@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Advertising lighting
 ---
-<p align="center">✩✩ </p>
+
+
+**✩✩ **
+
+
 
 conectivity::2
 Number::15
@@ -13,7 +17,7 @@ Problem:: Inadequate regulation of advertising lighting fails to set appropriate
 
 Therefore:: Regulate lighting levels, intensity, and types of lamps, particularly in advertising signs, billboards, and public lighting. Diminish or turn off ornamental and advertising lighting during the night, favoring directional lighting instead. Establish suitable limits and lighting standards to prevent disruption to wildlife.
 
-Graphic::![[29.png]]
+Graphic::![imagen](../29.png)
 
 linkdown:: [[Sodium vapor lamps]], [[Light sensors]], [[Shielded luminaires]]
 

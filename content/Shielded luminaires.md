@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Shielded luminaires
 ---
-<p align="center">✩✩✩ </p>
+
+
+**✩✩✩ **
+
+
 
 conectivity::3
 Number:: 33
@@ -14,7 +18,7 @@ Problem::Improper lighting direction is a major contributor to light pollution a
 Therefore:: 1-Promote the use of shielded luminaires that direct light downwards and prevent skyward scatter. This would reduce problems like light glare. 2-Reduce the intensity of artificial nighttime lighting, especially near natural areas, to avoid disrupting the timing and structure circadian rhythms of  animals
 
 
-Graphic::![[22.png]]
+Graphic::![imagen](../22.png)
 
 linkdown::
 

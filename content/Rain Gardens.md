@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Rain Gardens
 ---
-<p align="center">✩✩✩ </p>
+
+
+**✩✩✩ **
+
+
 
 conectivity::3
 Number:: 12
@@ -14,7 +18,7 @@ Problem::Urbanization and population growth in cities present significant challe
 Therefore:: The construction of rain gardens is recommended as an effective nature-based solution for urban hydrological issues. These gardens capture and store rainwater, reducing runoff and improving water quality. Additionally, they provide further environmental benefits such as mitigating the urban heat island effect, treating pollutants, sequestering carbon, and creating habitats for biodiversity. They also help restore natural hydrological processes in urban areas and decrease flood frequency. Moreover, they enable the creation of attractive green spaces for communities. Regarding location, strategic placement to collect roof, patio, parking lot, and street runoff is recommended. It is ideal to use soil mixes that facilitate infiltration and include proper inlet and outlet structures. To optimize performance, selecting a diversity of perennial plants is advised, especially herbaceous plants capable of retaining and detaining rainwater that are also flood and drought-tolerant. Rain gardens represent a valuable tool for enhanced water management in urban zones. Implementation in various public and private spaces is possible.
 
 
-Graphic::![[14.png]]
+Graphic::![imagen](../14.png)
 
 
 linkdown:: [[Permeable surfaces]]

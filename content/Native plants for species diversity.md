@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Native plants for species diversity
 ---
-<p align="center">✩✩ </p>
+
+
+**✩✩ **
+
+
 
 conectivity::1
 Number::35
@@ -14,7 +18,7 @@ Problem:: When introduced in urban settings, exotic plant species can become inv
 Therefore:: It is recommended to increase the presence of native plant species in urban green spaces such as parks, gardens, common areas, and street trees. This is because native plants provide a broader range of resources for local wildlife compared to exotic species. Additionally, incorporating endangered or threatened native species is suggested to contribute to their conservation. This approach not only benefits urban biodiversity but also promotes the abundance and diversity of birds, insects, and other urban animals by increasing the proportion and density of these plants in parks and gardens. By opting for regional or local native vegetation, a more effective strategy is established to provide habitat and food for urban wildlife.
 
 
-Graphic::![[10.png]]
+Graphic::![imagen](../10.png)
 
 
 

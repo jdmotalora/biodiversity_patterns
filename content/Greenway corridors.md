@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Greenway corridors
 ---
-<p align="center">✩✩✩ </p>
+
+
+**✩✩✩ **
+
+
 
 conectivity::3
 Number:: 6
@@ -15,7 +19,7 @@ Therefore::Establishing wide, vegetated greenway corridors with small trails alo
 
 
 
-Graphic::![[40.png]]
+Graphic::![imagen](../40.png)
 linkdown::[[Street tree biodiversity]], [[Artificial wetlands]], [[Urban ponds]], [[Soil biodiversity]], [[Urban space for human-animal]],[[Wildlife crossings]],
 
 Urban ecology principles:

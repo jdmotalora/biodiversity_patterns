@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Animal-assisted therapy
 ---
-<p align="center">✩ </p>
+
+
+**✩ **
+
+
 
 conectivity::1
 Number::28
@@ -13,7 +17,7 @@ Problem:: Correctional facilities, such as prisons and detention centers, and me
 
 Therefore::Incorporating green spaces, sustainability programs, and animal-assisted interventions is recommended in correctional and mental health facilities. These initiatives promote health improvement, behavioral enhancement, and the development of emotional and vocational skills for individuals, while simultaneously benefiting ecosystems. Implementing carefully designed healing gardens within these facilities provides spaces for reflection, restoration, reconciliation, and even commemoration. Furthermore, interacting with animals has been shown to be beneficial in treating various conditions such as depression, schizophrenia, phobias, addiction issues, and violent behaviors
 
-Graphic::![[2.png]]
+Graphic::![imagen](../2.png)
 linkdown::
 
 Urban ecology principles:

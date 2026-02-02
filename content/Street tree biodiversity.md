@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Street tree biodiversity
 ---
-<p align="center">✩✩✩✩ </p>
+
+
+**✩✩✩✩ **
+
+
 
 conectivity::4
 Number:: 21
@@ -13,7 +17,7 @@ Problem:: The urban tree canopy has diminished due to urbanization, which contra
 
 Therefore:: Therefore, as a strategy to improve and maintain urban wildlife, it is recommended to conserve and increase the number of different tree species, ensuring that the highest proportion corresponds to native species. Native trees are more compatible with the species coexisting with them in the city and better support ecosystem functions. The diversity of trees will be proportional to the diversity of species inhabiting them. Moreover, native trees contribute more effectively to reducing the urban heat island effect and significantly improve the mental health of residents.
 
-Graphic::![[Copia de Patrones imagenes. 3.png]]
+Graphic::![imagen](../Copia de Patrones imagenes. 3.png)
 
 linkdown:: [[Native plants for species diversity]], [[Strategic placement of resilient trees]],[[Permeable surfaces]],[[Sodium vapor lamps]],[[Light sensors]],[[Shielded luminaires]],[[Rain Gardens]], [[Reducing Wildlife-Vehicle Collisions]], [[Animal feeding in urban environments]],[[Urban space for human-animal]],[[Vegetation for noise attenuation]],
 

@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Urban ponds
 ---
-<p align="center">✩✩ </p>
+
+
+**✩✩ **
+
+
 
 conectivity::1
 Number:: 11
@@ -14,7 +18,7 @@ Problem:: Urban development has significantly damaged freshwater habitats, alter
 Therefore::Maintaining urban ponds is recommended, as they offer various ecosystem services and serve as both permanent and temporary habitats, acting as stepping stones during species migration. To ensure proper management of these ponds, it is suggested to avoid vertical walls that hinder amphibian movement, manage communities of submerged and emergent plants, maximize connectivity with other water bodies, and prevent the introduction of non-native species. Additionally, research has shown that urban retention ponds can effectively sediment de-icing salts, capture microplastics, and trap metals through the plants inhabiting them.
 
 
-Graphic::![[6.png]]
+Graphic::![imagen](../6.png)
 
 linkdown::[[Permeable surfaces]]
 

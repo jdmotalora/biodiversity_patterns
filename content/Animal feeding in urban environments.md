@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Animal feeding in urban environments
 ---
-<p align="center">✩ </p>
+
+
+**✩ **
+
+
 
 conectivity::1
 Number::44
@@ -13,7 +17,7 @@ Problem::Although most species have been negatively impacted by human activities
 
 Therefore:: Feeding wild species is not recommended, as it can condition their behavior and lead to a dependence on anthropogenic food sources. Moreover, human food is often unhealthy for these animals, disrupting their natural dietary habits and trophic networks. To minimize the impact on urban wildlife, food production companies should improve their processes to avoid becoming sources of food and shelter. Organic and recyclable waste should be kept away from potential encounters with wild animals, and pets should be fed indoors. By recognizing species as inhabitants of urban and surrounding ecosystems, citizens can contribute to the preservation of biodiversity
 
-Graphic::![[30.png]]
+Graphic::![imagen](../30.png)
 
 
 linkdown::

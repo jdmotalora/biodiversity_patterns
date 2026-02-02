@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Wildlife crossings
 ---
-<p align="center">✩✩ </p>
+
+
+**✩✩ **
+
+
 
 conectivity::2
 Number:: 29
@@ -16,7 +20,7 @@ Ecological infrastructure allows safe passage for myriad migrating species to ac
 Benefiting biodiversity conservation, integrating natural design into transportation networks helps prevent vehicular collisions involving local fauna. 
 
 
-Graphic::![[42.png]]
+Graphic::![imagen](../42.png)
 
 linkdown:: [[Reducing Wildlife-Vehicle Collisions]], [[Street tree biodiversity]]
 

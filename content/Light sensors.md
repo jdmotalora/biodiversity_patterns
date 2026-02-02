@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Light sensors
 ---
-<p align="center">✩✩✩ </p>
+
+
+**✩✩✩ **
+
+
 
 conectivity::4
 Number:: 32
@@ -14,7 +18,7 @@ Problem:: Excessive waste, lack of planning, and poor lighting practices in both
 Therefore:: 1-Using motion sensors and timers to turn off lights when not needed would benefit foraging, migration, and breeding behaviors by allowing natural light cycles to regulate animals' circadian rhythms.   2-Avoiding excessive illumination preserves the integrity of interdependent ecosystems that rely on biological cues from properly timed lighting.
 
 
-Graphic::![[37.png]]
+Graphic::![imagen](../37.png)
 
 linkdown::
 

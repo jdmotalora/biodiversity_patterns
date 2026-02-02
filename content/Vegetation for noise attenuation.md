@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Vegetation for noise attenuation
 ---
-<p align="center">✩✩ </p>
+
+
+**✩✩ **
+
+
 
 conectivity::2
 Number::34
@@ -17,7 +21,7 @@ Therefore:: To maximize noise attenuation capacity, it is essential to recognize
 
 In urban planning, it is crucial to avoid the loss of existing vegetation to conserve its valuable noise attenuation capacity. Additionally, seasonal variations in this capacity depending on vegetation type and soil cover should be considered. For example, leaf litter and vegetation roots contribute to creating a more porous and soft soil, allowing better absorption and dispersion of sound waves, especially at low frequencies. Grasslands and non-woody plants, such as herbs and grasses, also play a significant role by providing a matrix of stems that disperses sound. These elements can be complemented by trees and shrubs to further enhance sound absorption. A "decentralized" urban planning pattern is suggested, including small, dispersed urban nodes within the landscape, with interconnected green areas occupying the intermediate spaces.
 
-Graphic::![[43.png]]
+Graphic::![imagen](../43.png)
 
 linkdown::
 

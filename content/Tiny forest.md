@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Tiny forest
 ---
-<p align="center">✩✩✩ </p>
+
+
+**✩✩✩ **
+
+
 
 Conectivity::3
 Number:: 23
@@ -14,7 +18,7 @@ Problem:: The scarcity of native green spaces, coupled with the loss of biodiver
 
 Therefore:: Tiny forests or micro-forests are based on the Miyawaki reforestation method, which proposes the creation of  forests on plots as small as 100 square meters. These forests grow several times faster and with greater diversity than traditional methods, providing a space for urban wildlife. As part of the method, it is recommended to conduct a study of the selected site to identify native vegetation species and animal species that can benefit from the project. Next, the soil should be prepared with organic materials, such as compost made from fallen leaves and grass clippings, to a depth of 20 to 30 cm. Subsequently, a diverse mix of native tree species, including intermediate and late-successional species from local forest communities, should be selected to restore multi-layered, natural, or quasi-natural forests. The selected species should be planted densely, using as many companion species as possible to promote cooperative relationships and reduce competition for resources. Finally, it is advisable to cover the soil between the planted seedlings to prevent soil dryness, erosion, and weed growth while simultaneously providing nutrients as the mulch decomposes.
 
-Graphic::![[9.png]]
+Graphic::![imagen](../9.png)
 
 
 

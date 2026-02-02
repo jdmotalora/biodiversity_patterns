@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Wastelands for urban wildlife
 ---
-<p align="center">✩✩✩✩ </p>
+
+
+**✩✩✩✩ **
+
+
 
 conectivity::4
 Number::22
@@ -14,7 +18,7 @@ Problem:: Urban wastelands present an opportunity to create needed urban wildlif
 
 Therefore:: Identify abandoned sites in your neighborhood that still have spontaneous vegetation, wetlands or other valuable natural features like rocky outcrops. Then, collectively evaluate and map these sites based on specific criteria: Ecological value: Existing native vegetation, wildlife diversity, presence of rare species. Social value: Proximity to schools or homes, visibility from streets, safety and accessibility. Contribution to urban green infrastructure: Connectivity to parks or other green spaces. With this multi-criteria assessment, choose the sites with greatest potential to restore as an urban wildlife area through a community-led regeneration project. Main actions would be cleaning trash while protecting diverse vegetation, creating inclusive access points without over-intervening, and integrating the site visually and functionally with other nearby public green spaces through planting, eco-trails etc.
 
-Graphic::![[Copia de Patrones imagenes. 2.png]]
+Graphic::![imagen](../Copia de Patrones imagenes. 2.png)
 
 linkdown:: [[Native plants for species diversity]], [[Strategic placement of resilient trees]], [[Preserving dead trees.]], [[Butterfly garden]], [[Permeable surfaces]],  [[Sodium vapor lamps]],[[Light sensors]],[[Shielded luminaires]],[[Urban space for human-animal]],
 

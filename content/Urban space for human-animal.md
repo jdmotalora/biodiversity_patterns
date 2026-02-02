@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Urban space for human-animal
 ---
-<p align="center">✩✩✩✩ </p>
+
+
+**✩✩✩✩ **
+
+
 
 conectivity::4
 Number:: 16
@@ -18,7 +22,7 @@ Therefore::Promoting the collaborative creation of more urban infrastructure des
 A cultural and ethical change based on interspecies empathy, respect for animal otherness and appreciation of their contributions to the city is necessary. Implementing sterilization and identification programs for ethically managing populations of domestic animals (dogs, cats) and synanthropic fauna (pigeons, rodents). Rethinking the city as a multispecies space where animals are not excluded or segregated, recognizing their agency and interaction in urban life. Promoting an ethic of responsibility and respect towards animals.
 
 
-Graphic::![[39.png]]
+Graphic::![imagen](../39.png)
 
 linkdown::[[Creation of artificial microhabitats]], [[Wildlife crossings]], [[Reducing Wildlife-Vehicle Collisions]],[[Vegetation for noise attenuation]].
 

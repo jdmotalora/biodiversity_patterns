@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: buildings for biodiversity
 ---
-<p align="center">✩✩✩✩ </p>
+
+
+**✩✩✩✩ **
+
+
 
 conectivity::1
 Number:: 8
@@ -13,7 +17,7 @@ Problem:: The loss of biodiversity, caused by residential, public, and industria
 
 Therefore::To mitigate the environmental impact of existing buildings constructed with traditional materials like brick, concrete, and steel, it is recommended to incorporate enveloping surfaces that reduce risks and promote species interaction. When planning new constructions, architects and developers should integrate activity programs that address the needs of non-human species and carefully consider the choice of materials and construction systems. Priority should be given to solutions that enhance biodiversity, minimize lifecycle impacts, reduce energy consumption, and lower the carbon and water footprints of the building. Sustainable materials such as wood, earth, and natural fibers are recommended for their ability to meet these goals.
 
-Graphic::![[3 1.png]]
+Graphic::![imagen](../3 1.png)
 
 linkdown:: [[Garden connection]], [[Architectural Programming]], [[Built Surfaces for multi-species cohabitation]], [[Roof for pollinator]],[[Facades microenvironments]],[[Glass for birds]], [[Sodium vapor lamps]],[[Light sensors]],[[Shielded luminaires]],
 

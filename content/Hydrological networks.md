@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Hydrological networks
 ---
-<p align="center">✩✩✩ </p>
+
+
+**✩✩✩ **
+
+
 
 conectivity::3
 Number:: 2
@@ -13,7 +17,7 @@ Problem::Urban blue infrastructure faces several challenges, many of them stemmi
 
 Therefore:: Blue infrastructure implementation in cities facilitates biodiversity conservation by establishing urban hydrological networks composed of interconnected small ponds or canals serving as dispersal corridors for aquatic fauna species. Additionally, restoring degraded aquatic ecosystems such as wetlands, riverbanks, and others within the city, ensuring adequate quality, flow, and vegetation, promotes their role as suitable habitats for various species. Blue infrastructure intended for flood control and water filtration can also provide secondary habitats like retention wetlands and filter strips, increasing refuge and resources for biodiversity. Supplementing it with riparian vegetation, adjacent green corridors, and wildlife crossings facilitates the movement and spread of associated flora and fauna. Incorporating criteria and infrastructure for fish migration in lotic river systems aims to preserve this biodiversity. Promoting responsible practices regarding water use and management minimizes impacts on aquatic biodiversity and wetlands. Finally, linking blue infrastructure with green infrastructure establishes broader, better-connected urban ecological networks, enhancing connectivity between the city's different natural habitats and areas.
 
-Graphic::![[11.png]]
+Graphic::![imagen](../11.png)
 
 linkdown:: [[Rain Gardens]] [[Artificial wetlands]] [[Artificial reefs]] [[Urban ponds]], ,[[Improving Lighting]],[[Lighting restriction in natural areas]],
 

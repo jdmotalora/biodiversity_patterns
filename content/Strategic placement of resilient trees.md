@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Strategic placement of resilient trees
 ---
-<p align="center">✩✩ </p>
+
+
+**✩✩ **
+
+
 
 conectivity::1
 Number::36
@@ -14,7 +18,7 @@ Problem:: Urban areas tend to generate stressful environmental conditions for tr
 Therefore::It is advised to choose native tree species already adapted to the local climate and demonstrated to be tolerant of common urban stressors, including drought, heat, pollution, and severe pruning. Strategic placement of resilient plant assemblages along park perimeters, green belts, and roadsides enables a stepwise transition from the most stress-enduring species sited in highly exposed areas to less tolerant varieties embedded within greenspaces. Actively managing stress-resilient trees as an interconnected system is critical for assisting their gradual acclimatization to urban settings through judicious pruning, enhancing soil breathability, adequate watering, integrated pest management, and other maintenance interventions. Additionally, promoting wide species diversity both along tree-lined streets and within parks can simultaneously bolster ecological facilitation amongst plants and boost systemic resilience against outbreaks of disease.
 
 
-Graphic::![[19.png]]
+Graphic::![imagen](../19.png)
 
 
 linkdown::

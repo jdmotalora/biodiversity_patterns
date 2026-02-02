@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Campaign on light pollution
 ---
-<p align="center">✩✩ </p>
+
+
+**✩✩ **
+
+
 
 conectivity::2
 Number:: 14
@@ -13,7 +17,7 @@ Problem:: The lack of awareness and understanding of light pollution leads to in
 
 Therefore:: 1. Conduct public awareness campaigns to increase knowledge of light pollution and its negative effects. 2. Involve the community in monitoring and reporting problematic sources of light pollution. 3. Develop policies and regulations to control light emissions and promote sustainable alternatives. 4. Educate on the circadian rhythms of humans and animals and the importance of light/dark cycles.
 
-Graphic::![[28.png]]
+Graphic::![imagen](../28.png)
 
 linkdown::[[Sodium vapor lamps]], [[Light sensors]], [[Shielded luminaires]]
 

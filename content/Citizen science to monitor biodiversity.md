@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Citizen science to monitor biodiversity
 ---
-<p align="center">✩ </p>
+
+
+**✩ **
+
+
 
 conectivity::1
 Number::17
@@ -13,7 +17,7 @@ Problem:: Pollution, habitat loss, invasive species, climate change, and other a
 
 Therefore:: Monitoring and tracking urban biodiversity behavior is recommended in planning and construction processes, as it is essential to understand the best ways to preserve and manage our collective biodiversity. This ensures livelihoods by providing basic goods and ecosystem services. Moreover, biodiverse ecosystems have a greater potential to adapt to climate change. Although monitoring requires scientists, their collaboration with communities has developed methods as citizen science, which has contributed to obtaining the large-scale data necessary for species monitoring. This cost-effective method also raises awareness among citizens about implementing conservation measures, offering educational benefits.
 
-Graphic::![[23.png]]
+Graphic::![imagen](../23.png)
 
 
 linkdown::

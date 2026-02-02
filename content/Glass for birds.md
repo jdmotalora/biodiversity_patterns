@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Glass for birds
 ---
-<p align="center">✩ </p>
+
+
+**✩ **
+
+
 
 conectivity::1
 Number::42
@@ -13,7 +17,7 @@ Problem:: Increasing human development and construction replaces birds' natural 
 
 Therefore:: Avoid transparent glass panels on buildings. Opaque materials can prevent collisions. Adhesive patterns on glass alert birds to barriers. Decals of predator birds or etched, laminated, UV-coated glass also enhance visibility. Reducing nocturnal lighting on facades is advisable, as artificial light disorients avian flight paths towards glass. Careful placement of vegetation and food sources away from windows minimizes encounters.  A multifaceted approach combining deterrent panels with reduced lighting has an enhanced startling effect, acting through various mechanisms
 
-Graphic::![[33.png]]
+Graphic::![imagen](../33.png)
 
 linkdown::
 

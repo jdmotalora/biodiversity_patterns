@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Built Surfaces for multi-species cohabitation
 ---
-<p align="center">✩ </p>
+
+
+**✩ **
+
+
 
 conectivity::1
 Number::39
@@ -15,7 +19,7 @@ Laws safeguarding nature and habitats fail to account for their complexity and f
 
 Therefore:: To ensure species persistence within the built environment, existing habitats should be protected, or new urban habitats intentionally created, providing necessary resources for survival. Built surfaces interacting with ecosystems must employ treatments contributing to species recovery and conservation, transforming buildings into a positive or neutral impact on the urban ecosystem.Design thinking should center equally on human and non-human species, considering their respective requirements. Building processes should include species as stakeholders during planning and design, ensuring they benefit from new constructions. Incorporating shared habitat elements like green roofs, walls, and cladding cavities for birds and insects is recommended. These should be strategically distributed across the building envelope, considering environmental conditions, species preferences, and proximity to human spaces. Species selection for integration is crucial, initially focusing on those most likely to survive and positively interact with humans. Involving species representatives throughout the design process advocates for their needs. During construction, sites should be evaluated beforehand, and measures taken to protect existing habitats. Appropriate construction technologies and materials compatible with non-human species' needs must be selected. Redefining maintenance perceptions to accept the dynamic nature of multi-species cohabitation is essential.
 
-Graphic::![[34.png]]
+Graphic::![imagen](../34.png)
 linkdown::
 
 

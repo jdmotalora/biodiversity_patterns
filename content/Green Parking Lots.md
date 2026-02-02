@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Green Parking Lots
 ---
-<p align="center">✩✩✩ </p>
+
+
+**✩✩✩ **
+
+
 
 conectivity::3
 Number::25
@@ -14,7 +18,7 @@ Problem:: The urban heat island phenomenon is characterized by higher temperatur
 Therefore:: In the construction and renovation of parking lots, it is recommended to manage rainwater through the implementation of rain gardens and permeable surfaces. These features allow for the filtration of water contaminants and reduce runoff. Moreover, incorporating landscaped areas with plants and planting trees is suggested to increase shaded regions and permeable surfaces, providing a connection with nature. To enhance pedestrian and cyclist circulation, it is crucial to improve signage and create adequate spaces for their movement. Lighting elements should be strategically placed to minimize light pollution and encourage the efficient use of this resource. Finally, activating the space through temporary community events, such as fairs and sports activities, is proposed to promote public engagement and utilize the area effectively.
 
 
-Graphic::![[20.png]]
+Graphic::![imagen](../20.png)
 
 
 

@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Facades microenvironments
 ---
-<p align="center">✩ </p>
+
+
+**✩ **
+
+
 
 conectivity::1
 Number::41
@@ -13,7 +17,7 @@ Problem:: Rapid urban densification is reducing green spaces, increasing air pol
 
 Therefore:: Conduct an adequate site analysis considering climate, sun orientation and load capacity. Carefully select native plant species. Choose porous substrates like soil, wood and natural ground to enable diverse microbial colonization, avoiding processed materials that inhibit it. Incorporate geometric surface configurations to create varied microenvironments and promote biodiversity. Design stratified facades with material layers forming a gradient from exterior (drier) to interior (more humid) conditions to host different microorganisms. Provide suitable nesting, feeding and shelter conditions for animal species.
 
-Graphic::![[Copia de Patrones imagenes. (2).png]]
+Graphic::![imagen](../Copia de Patrones imagenes. (2).png)
 
 
 linkdown:: [[Soil biodiversity]],

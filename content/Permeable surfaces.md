@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Permeable surfaces
 ---
-<p align="center">✩ </p>
+
+
+**✩ **
+
+
 
 conectivity::1
 Number:: 19
@@ -15,7 +19,7 @@ Problem:: Pavements, which account for 30 to 45% of urban surfaces, have been li
 Therefore:: To reduce the area of impermeable surfaces and control peak flow rates, allowing the entire city to infiltrate water, the use of permeable surfaces such as porous pavements, grass, gravel, porous tiles, and impermeable blocks with holes or slots is recommended. These surfaces help decrease flood risks by facilitating natural water cycles and reducing the concentration of pollutants that reach urban water bodies, thereby improving the quality of life for the species that inhabit them.
 
 
-Graphic::![[13.png]]
+Graphic::![imagen](../13.png)
 
 linkdown:: [[Soil biodiversity]],
 

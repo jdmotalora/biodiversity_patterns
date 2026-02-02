@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Preserving dead trees.
 ---
-<p align="center">✩✩ </p>
+
+
+**✩✩ **
+
+
 
 conectivity::2
 Number::37
@@ -14,7 +18,7 @@ Problem:: Urban green spaces are the primary habitats for wildlife in cities. In
 Therefore:: Preserving standing dead trees or their fallen wood represents a benefit for the conservation of future biodiversity. If public safety concerns necessitate the felling of trees, it is not necessary to remove the trunks once they are on the ground. Dead wood provides habitats for species that depend on decomposing wood, such as fungi, insects, or lichens. In fact, ecosystems with wood in different stages of decomposition strengthen their stability and resilience. Effectively communicating the positive effects of dead wood to communities can drive an increase in urban diversity.
 
 
-Graphic::![[18.png]]
+Graphic::![imagen](../18.png)
 
 linkdown::
 

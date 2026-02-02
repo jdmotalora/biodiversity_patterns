@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Architectural Programming
 ---
-<p align="center">✩✩ </p>
+
+
+**✩✩ **
+
+
 
 conectivity::2
 Number::27
@@ -14,7 +18,7 @@ Problem:: Cities are spaces where diverse species coexist, but urban planning of
 Therefore:: Architectural activity programs offer valuable information about the actions and users involved in a building. To better accommodate biodiversity, it is recommended that existing programs be revised to create spaces that consider the needs of non-human users. When designing new architectural programs, professionals should include multi-species activities that facilitate the integration of other urban-dwelling species, while respecting their rights. Furthermore, incorporating educational initiatives that promote the connection between species and the city is crucial for preventing conflicts among them. By including diverse species in architectural programs and urban planning, cities can ensure long-term benefits for both humans and the environment.
 
 
-Graphic::![[44.png]]
+Graphic::![imagen](../44.png)
 
 linkdown:: [[Cemetery Biodiversity Conservation]],[[Animal-assisted therapy]],
 

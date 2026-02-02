@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Artificial wetlands
 ---
-<p align="center">✩✩ </p>
+
+
+**✩✩ **
+
+
 
 conectivity::2
 Number:: 10
@@ -15,7 +19,7 @@ Problem:: Marine and continental wetlands are biodiversity hotspots that offer a
 Therefore:: It is recommended to consider the conservation and restoration of wetlands, as well as the construction of artificial wetlands, as fundamental aspects of urbanization and urban planning. Artificial wetlands can serve as versatile landscape infrastructure for wastewater treatment, flood control, and biodiversity habitat creation, offering alternative and cost-effective solutions. The two essential components of artificial wetlands are plant species and substrate medium. Plants indirectly promote the growth of microbial communities by releasing oxygen from their roots, thereby improving water quality. Substrates also have the ability to remove certain water pollutants through various processes such as ion exchange, adsorption, and precipitation. Moreover, artificial wetlands function as mechanisms for managing stormwater at all scales, fostering biodiversity and habitat creation, establishing new wildlife corridors, and integrating into the urban recreational network
 
 
-Graphic::![[8.png]]
+Graphic::![imagen](../8.png)
 
 
 links:: [[Permeable surfaces]]

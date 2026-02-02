@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Superblock for biodiversity
 ---
-<p align="center">✩ ✩✩</p>
+
+
+**✩ ✩✩**
+
+
 
 conectivity::3
 Number:: 18
@@ -14,7 +18,7 @@ Problem::Numerous cities have encouraged car-centric development, which has grea
 
 Therefore:: Models that reduce vehicular infrastructure within neighborhoods and prioritize active transportation modes are highly recommended. Superblocks, life circle  and X-minute cities serve as prime examples of this approach. These models propose perimeter vehicular roads connected to the city's arterial routes, while dedicating interior lanes to active transportation. By creating public spaces that foster social interaction, these neighborhoods become more sustainable and promote healthier lifestyles. Moreover, such models enhance connectivity with green and blue infrastructure, thereby increasing opportunities for the movement and habitation of native species.
 
-Graphic::![[27.png]]
+Graphic::![imagen](../27.png)
 
 
 linkdown::[[buildings for biodiversity]],[[Architectural Programming]],[[Rain Gardens]],[[Light sensors]],[[Shielded luminaires]],[[Sodium vapor lamps]],[[Campaign on light pollution]],[[Permeable surfaces]],

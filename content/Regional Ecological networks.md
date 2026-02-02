@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Regional Ecological networks
 ---
-<p align="center">✩✩ </p>
+
+
+**✩✩ **
+
+
 
 conectivity::2
 Number:: 1
@@ -13,7 +17,7 @@ Problem:: Traditional territorial planning has prioritized land use, zoning, tra
 
 Therefore:: Establishing regional ecological networks that connect adjacent urban and rural biomes is recommended, thus strengthening connectivity between urban habitat patches through corridors that facilitate wildlife transit and propagation, mitigating habitat fragmentation effects. In urban planning, identifying and removing physical and environmental barriers to animal movement, as well as generating solutions to optimize connectivity, is essential. Identified patches can constitute the backbone of the ecological network and should be prioritized in preservation initiatives. Additionally, maximizing width and functionality of riparian corridors as preferred wildlife pathways is suggested. Prioritizing urbanization in ecologically low-value areas and safeguarding zones important for biodiversity is fundamental. On a regional scale, recognizing these zones and focusing urban expansion on environmentally less vulnerable sites is vital. Working alongside urban developers to implement biodiversity-sensitive urban design practices is key to ensuring preservation across all stages of planning and development.
 
-Graphic::![[7.png]]
+Graphic::![imagen](../7.png)
 
 
 linkdown::,[[Improving Lighting]],[[Greenway corridors]], [[Biodiversity patches]], [[buildings for biodiversity]] 

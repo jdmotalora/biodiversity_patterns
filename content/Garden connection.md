@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Garden connection
 ---
-<p align="center">✩✩✩✩ </p>
+
+
+**✩✩✩✩ **
+
+
 
 conectivity::4
 Number:: 26
@@ -13,7 +17,7 @@ Problem:: Land fragmentation is often carried out without considering its impact
 
 Therefore:: Avoid fragmentation of large gardens into smaller properties through urban planning policies preserves vital refuge for endangered urban wildlife. Large, contiguous green spaces enable botanical and biological diversity to flourish across generations. Subdivided lots that fragment native flora communities directly threaten vulnerable species already pressed by climate change.  Apartment courtyard habitats with well-curated native plantings engender opportunities for community building around shared green infrastructure
 
-Graphic::![[35.png]]
+Graphic::![imagen](../35.png)
 
 
 linkdown:: [[Native plants for species diversity]], [[Strategic placement of resilient trees]], [[Preserving dead trees.]], [[Butterfly garden]], [[Permeable surfaces]], [[Soil biodiversity]], [[Vegetation for noise attenuation]],

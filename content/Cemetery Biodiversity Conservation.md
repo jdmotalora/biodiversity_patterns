@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Cemetery Biodiversity Conservation
 ---
-<p align="center">✩✩✩✩ </p>
+
+
+**✩✩✩✩ **
+
+
 
 conectivity::4
 Number:: 24
@@ -14,7 +18,7 @@ Problem::The increasing pressure on urban green spaces has highlighted the under
 Therefore:: Cemeteries can function as urban biodiversity hotspots. By integrating them into the city’s green infrastructure as wildlife corridors, they facilitate species movement and provide valuable ecosystem services such as microclimate regulation, carbon capture, erosion control, pollination, and biodiversity conservation. Differentiated management is crucial, ranging from intensively maintained lawns to minimally managed meadows and reforested areas. Preserving old standing dead trees is vital for endangered species habitats. Allowing natural processes to occur with minimal human intervention will enable forest regeneration and enhance wildlife diversity. Reducing intensive lawn management promotes the growth of wildflower meadows. Upholding conduct guidelines that limit disturbances is essential to provide peaceful refuge for urban wildlife.
 
 
-Graphic::![[31.png]]
+Graphic::![imagen](../31.png)
 
 
 linkdown::[[Native plants for species diversity]], [[Strategic placement of resilient trees]], [[Preserving dead trees.]], [[Butterfly garden]],[[Permeable surfaces]] [[Sodium vapor lamps]],[[Light sensors]],[[Shielded luminaires]],[[Soil biodiversity]], [[Urban space for human-animal]],[[Vegetation for noise attenuation]],

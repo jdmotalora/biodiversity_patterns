@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Plant barriers to dampen artificial light
 ---
-<p align="center">✩✩ </p>
+
+
+**✩✩ **
+
+
 
 conectivity::2
 Number:: 20
@@ -13,7 +17,7 @@ Problem::The lack of vegetation cover on streets and sidewalks reduces the envir
 
 Therefore:: Strategically planted vegetation buffers absorb artificial glare from streets to sustain biodiverse environments. Native shrubs and trees with dense canopies naturally filter excess luminance, enabling surrounding species to retain natural nocturnal behaviors integral to thriving. Although nighttime light can be a stressor for plants, implementing best practices, such as reducing light trespass and using sensors, can help mitigate its negative effects.
 
-Graphic::![[21.png]]
+Graphic::![imagen](../21.png)
 
 linkdown:: [[Sodium vapor lamps]], [[Light sensors]] [[Shielded luminaires]]
 

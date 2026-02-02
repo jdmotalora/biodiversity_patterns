@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Roof for pollinator
 ---
-<p align="center">✩</p>
+
+
+**✩**
+
+
 
 conectivity::1
 Number::40
@@ -13,7 +17,7 @@ Problem:: Innovative and effective strategies are needed to counter the current 
 
 Therefore:: Designing green roofs  that provide nesting spaces and food resources could support populations of birds, bees, and other beneficial species. Specifically, providing supplemental structures on green roofs - such as piles of sand and dead wood - may enhance crucial pollinator habitat. Additionally, utilizing green roofs as urban refuges for specialized arthropods can promote species needing particular nesting locations. Plots installed with deeper, fine-grain substrates alongside floral enhancements could further nurture the diversity and abundance of wild bees on green roofs. 
 
-Graphic::![[1 1.png]]
+Graphic::![imagen](../1 1.png)
 
 linkdown:: [[Soil biodiversity]],
 

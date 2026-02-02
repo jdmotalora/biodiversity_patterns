@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Soil biodiversity
 ---
-<p align="center">✩✩✩ </p>
+
+
+**✩✩✩ **
+
+
 
 conectivity::1
 Number:: 5
@@ -13,7 +17,7 @@ Problem:: Soil biodiversity, which constitutes 25% of total biodiversity, is a c
 
 Therefore::To maintain and enhance urban environments, it is recommended to plan, preserve, and expand plant-soil systems in various settings, such as private yards, gardens, roadside verges, pedestrian pathways, parks, green roofs, green walls, and potted plants. It is crucial to avoid soil sealing and to conserve or transplant habitats that support soil biota. Furthermore, preserving leaf litter in urban soils is advised, as it promotes the growth of invertebrates, fungi, and other species that contribute to water infiltration and the retention of pathogens and pollutants. Soil not only provides food and fibers but also regulates air quality and climate, ultimately benefiting human health.
 
-Graphic::![[Copia de Patrones imagenes. 1.png]]
+Graphic::![imagen](../Copia de Patrones imagenes. 1.png)
 linkdown::[[Superblock for biodiversity]],
 
 Urban ecology principles:

@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Biodiversity patches
 ---
-<p align="center">✩✩ </p>
+
+
+**✩✩ **
+
+
 
 conectivity::2
 Number:: 7
@@ -15,7 +19,7 @@ Therefore:: Conserving wooded patches within the urban matrix, even the smallest
 
 
 
-Graphic::![[15.png]]
+Graphic::![imagen](../15.png)
 
 
 

@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Lighting restriction in natural areas
 ---
-<p align="center">✩ </p>
+
+
+**✩ **
+
+
 
 conectivity::1
 Number::13
@@ -14,7 +18,7 @@ Problem:: Excessive artificial lighting negatively impacts natural reserves and 
 Therefore:: Establishing buffer zones surrounding wildlife habitats—within which outdoor lighting installations would face restrictions. 
 Thoughtful demarcation of dark sky preserves enhances nocturnal environments that many threatened species rely on for navigation during seasonal migrations. Additionally, minimizing artificial light encroachment into wetlands protects amphibian and aquatic life cycles dependent on naturally occurring photoperiods. 
 
-Graphic::![[38.png]]
+Graphic::![imagen](../38.png)
 
 linkdown:: [[Plant barriers to dampen artificial light]]
 

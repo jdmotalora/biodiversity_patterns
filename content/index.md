@@ -1,7 +1,5 @@
 ---
-
-title: Inicio
-
+title: index
 ---
 
 

@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Urban wildlife behavior
 ---
-<p align="center">✩✩ </p>
+
+
+**✩✩ **
+
+
 
 conectivity::1
 Number:: 4
@@ -14,7 +18,7 @@ Problem:: Urban environments have dramatically altered the survival, reproductio
 Therefore:: To contribute to urban biodiversity, it is recommended to recognize and monitor the species inhabiting these environments. Establishing planning processes that consider both ecosystem needs and species behaviors is crucial. During planning, homogenization should be avoided, and the installation of native species in the city should be prioritized.To foster successful coexistence between humans and urban wildlife, spaces that respect the specific characteristics of these species must be constructed. Additionally, educational campaigns should be conducted to raise awareness about the benefits of cohabitation and reduce negative interactions. Furthermore, involving communities in nature observation and engaging them as stakeholders in ecosystem restoration and conservation processes is essential.
 
 
-Graphic::![[12.png]]
+Graphic::![imagen](../12.png)
 
 linkdown:: [[Urban space for human-animal]],[[Citizen science to monitor biodiversity]], ,[[Improving Lighting]],
 

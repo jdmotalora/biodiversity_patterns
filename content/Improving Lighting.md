@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Improving Lighting
 ---
-<p align="center">✩✩ </p>
+
+
+**✩✩ **
+
+
 
 conectivity::2
 Number:: 3
@@ -14,7 +18,7 @@ Problem::The widespread use of electric lighting, driven by urbanization, indust
 Therefore::To address this issue, it is recommended to implement measures that ensure effective lighting by precisely directing it towards the intended area, providing the appropriate amount of light, and using it only when necessary. Reducing light pollution also depends on selecting the suitable color temperature and considering the application context, as well as choosing the appropriate equipment and ensuring its correct orientation and installation. These actions aim to minimize the amount of energy used for illumination and mitigate the negative effects on biodiversity
 
 
-Graphic::![[36.png]]
+Graphic::![imagen](../36.png)
 
 
 

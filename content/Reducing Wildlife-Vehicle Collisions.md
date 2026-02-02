@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Reducing Wildlife-Vehicle Collisions
 ---
-<p align="center">✩ </p>
+
+
+**✩ **
+
+
 
 conectivity::1
 Number::43
@@ -30,7 +34,7 @@ Promoting habitat connectivity via wildlife corridors and identifying roadkill h
 
 Proper management of roadside vegetation can also benefit biodiversity by providing substitute habitats. Recommendations include favoring species attractive to pollinators, limiting herbicide use, and allowing some natural succession. 
 
-Graphic:: ![[41.png]]
+Graphic:: ![imagen](../41.png)
 
 linkdown::
 

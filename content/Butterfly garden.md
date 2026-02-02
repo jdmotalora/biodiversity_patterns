@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Butterfly garden
 ---
-<p align="center">✩ </p>
+
+
+**✩ **
+
+
 
 conectivity::1
 Number:: 38
@@ -14,7 +18,7 @@ Problem:: The extinction of butterflies is driven by the destruction and transfo
 Therefore:: The creation of butterfly gardens in cities is a fundamental mechanism that contributes to the conservation and recovery of these species. It is recommended to identify the host plants of butterflies and include them in the design of gardens, balconies, and terraces, aiming to form a network of interconnected green spaces. These plants not only provide food for the butterflies but also offer them shelter and are essential for their reproduction, as some species use them to lay their eggs.
 
 
-Graphic::![[5 2.png]]
+Graphic::![imagen](../5 2.png)
 
 linkdown::
 

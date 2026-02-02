@@ -1,7 +1,11 @@
 ---
-dg-publish: true
+title: Artificial reefs
 ---
-<p align="center">✩ </p>
+
+
+**✩ **
+
+
 
 conectivity::1
 Number:: 9
@@ -16,7 +20,7 @@ Therefore:: Coral restoration techniques are diverse, with several recommended a
 It is crucial to emphasize that one of the most important actions in coral reef restoration is the holistic restoration of ecosystems. In all cases, collaboration between scientists and communities has consistently yielded the most favorable outcomes
 
 
-Graphic::![[Copia de Patrones imagenes. (1) 1.png]]
+Graphic::![imagen](../Copia de Patrones imagenes. (1) 1.png)
 
 
 linkdown::
