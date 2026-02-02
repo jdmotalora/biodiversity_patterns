@@ -10,5 +10,7 @@ title: Inicio
 
 Bienvenido.
 
+> Última actualización: {{date}}
+
 
 
